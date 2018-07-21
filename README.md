@@ -15,7 +15,7 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 (X)`git clone`
 ( )`git commit`
 
-?: How do you create a copy of a lab under your own GitHub account so that you can solve the lab?
+?: How do you create a copy of a lab into your own GitHub account so that you can solve the lab?
 
 (X) Forking it via the GitHub interface.
 ( )`git fork`
